@@ -1,0 +1,11 @@
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\bin\Debug\netcoreapp2.0\SignalRReactNativeChat.deps.json
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\bin\Debug\netcoreapp2.0\SignalRReactNativeChat.runtimeconfig.json
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\bin\Debug\netcoreapp2.0\SignalRReactNativeChat.runtimeconfig.dev.json
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\bin\Debug\netcoreapp2.0\SignalRReactNativeChat.dll
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\obj\Debug\netcoreapp2.0\SignalRReactNativeChat.csprojResolveAssemblyReference.cache
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\obj\Debug\netcoreapp2.0\SignalRReactNativeChat.csproj.CoreCompileInputs.cache
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\obj\Debug\netcoreapp2.0\SignalRReactNativeChat.AssemblyInfoInputs.cache
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\obj\Debug\netcoreapp2.0\SignalRReactNativeChat.AssemblyInfo.cs
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\bin\Debug\netcoreapp2.0\SignalRReactNativeChat.pdb
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\obj\Debug\netcoreapp2.0\SignalRReactNativeChat.dll
+D:\Programs\VSProjects\Empeek\SignalRReactNativeChat\SignalRReactNativeChat\SignalRReactNativeChat\obj\Debug\netcoreapp2.0\SignalRReactNativeChat.pdb
